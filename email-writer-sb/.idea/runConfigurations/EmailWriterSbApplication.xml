@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="EmailWriterSbApplication" type="Application" factoryName="Application">
+    <envs>
+      <env name="GEMINI_URL" value="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" />
+      <env name="GEMINI_KEY" value="AIzaSyCAKCZD8hx6nhCSUxG2upbBcgAPzcQU0Z0 " />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.email.writer.EmailWriterSbApplication" />
+    <module name="email-writer-sb" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
